@@ -50,7 +50,7 @@
     "triple-equals": [true, "allow-null-check"],
     "unified-signatures": true,
     "variable-name": false,
-    "ordered-imports": true,
+    "ordered-imports": false,
     "nx-enforce-module-boundaries": [
       true,
       {
