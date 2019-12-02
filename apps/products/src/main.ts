@@ -3,7 +3,7 @@ import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
 import { AppModule } from './app/app.module';
 import { environment } from './environments/environment';
-import {products} from "@nx-example/shared/product/data";
+import {products} from "@nx-example/shared-product-data";
 
 if (environment.production) {
   /**
